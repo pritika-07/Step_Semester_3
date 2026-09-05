@@ -7,8 +7,10 @@
 - Completed and tested the 5 Week 1 class/practice problems.
 - Completed and tested the 5 Week 1 assignment problems.
 - Added the required project configuration files.
+
 **Next Session Plan:**
 - Start working on Week 2 problems.
+
 **Issues Faced:**
 - Faced some Git branch and project-structure issues while setting up the repository, which were resolved.
 ---
@@ -18,8 +20,10 @@
 - Completed and tested the 5 Week 1 class/practice problems.
 - Completed and tested the 5 Week 1 assignment problems.
 - Added the required project configuration files.
+
 **Next Session Plan:**
 - Start working on Week 3 problems.
+
 **Issues Faced:**
 - Faced some Git command issues, resolved.
 ---
@@ -29,8 +33,10 @@
 - Completed and tested the 5 Week 1 class/practice problems.
 - Completed and tested the 5 Week 1 assignment problems.
 - Added the required project configuration files.
+
 **Next Session Plan:**
 - Start working on Week 4 problems.
+
 **Issues Faced:**
 N/A
 ---
@@ -40,8 +46,10 @@ N/A
 - Completed and tested the 5 Week 1 class/practice problems.
 - Completed and tested the 5 Week 1 assignment problems.
 - Added the required project configuration files.
+
 **Next Session Plan:**
 - Start working on Week 5 problems.
+
 **Issues Faced:**
 - Accidentally added code files in dev branch, learnt how to reset to its original form.
 ---
