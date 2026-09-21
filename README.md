@@ -53,3 +53,15 @@ N/A
 **Issues Faced:**
 - Accidentally added code files in dev branch, learnt how to reset to its original form.
 ---
+## Date: 10-09-2026
+**Today's Work:**
+- Completed Week 5 class problems and assignment problems.
+- Created and pushed the `feature/week_5` branch with the Week 5 implementation.
+
+**Next Session Plan:**
+- Continue with the next scheduled STEP coursework/task.
+
+**Issues Faced:**
+- None
+
+---
