@@ -77,3 +77,15 @@ N/A
 - None
 
 ---
+## Date: 23-09-2026
+**Today's Work:**
+- Completed Week 7 class problems and assignment problems based on Abstraction.
+- Implemented the given Java problems using abstraction concepts.
+
+**Next Session Plan:**
+- Continue with the next STEP coursework topic and complete the assigned problems.
+
+**Issues Faced:**
+- None
+
+---
