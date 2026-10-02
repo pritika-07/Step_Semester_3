@@ -89,3 +89,15 @@ N/A
 - None
 
 ---
+## Date: 01-09-2026
+**Today's Work:**
+- Completed Week 8 class problems and assignment problems based on Object class methods.
+- Implemented the given Java problems using OOP concepts.
+
+**Next Session Plan:**
+- Continue with the next STEP coursework topic and complete the assigned problems.
+
+**Issues Faced:**
+- None
+
+---
